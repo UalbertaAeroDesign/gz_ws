@@ -45,6 +45,19 @@ qtcreator-*
 
 *~
 
+# Ignore Mac junk
+.DS_Store
+
+# Ignore build artifacts
+build/
+install/
+
+# Ignore ArduPilot logs
+*.BIN
+*.tlog
+*.rlog
+src/ardupilot_gazebo/logs/
+
 # Emacs
 .#*
 
