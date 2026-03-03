@@ -75,7 +75,7 @@
 
     <include>
     <uri>model://landing_tag</uri>
-    <pose>2 0 0 0 0 0</pose>
+    <pose>1 0 0 0 0 0</pose>
   </include>
   
   </world>
