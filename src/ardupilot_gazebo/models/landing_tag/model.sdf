@@ -12,7 +12,7 @@
         <geometry>
           <!-- Thin box is more reliable than plane for texturing -->
           <box>
-            <size>0.6 0.6 0.001</size>
+            <size>0.4 0.4 0.001</size>
           </box>
         </geometry>
 
@@ -39,7 +39,7 @@
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>0.6 0.6</size>
+            <size>0.4 0.4</size>
           </plane>
         </geometry>
       </collision>
